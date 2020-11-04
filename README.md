@@ -97,7 +97,9 @@ Once the code is deployed, you use the "fastforward" function to bypass the test
 ![DEP](./Images/L3_DEP_test_3_balance.png)
 
 ## 5. Deploy all contracts to live Testnet Kovan:
-Point Metamask to Kovan network, ensure there is Ether on this network and deploy contracts to the live testnet. 1 Ether was transfered on 2 occations to the account to which the contracts was deployed:
+Kovan testnet was used to deploy contracts to the live testnet. Kovan is a fast and reliable Ethereum Test Chain. Kovan is a Proof of Authority (PoA) publicly accessible blockchain for Ethereum; created and maintained by a consortium of Ethereum developers, to aide the Ethereum developer community.
+
+To deploy to Kovan, we point Metamask to the Kovan network, ensure there is Ether on this network and deploy contracts to the live testnet. Ether was transfered on 2 occations to the account to which the contracts was deployed:
 
 ### 5.1 Transfer 1.8ETH to account where contracts are being deployed, the confirmation and transaction:
 ![TransferETH](./Images/TransferEtherKovan.png) </br>
